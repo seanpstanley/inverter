@@ -1,2 +1,2 @@
 # Inverter
-Prototype of a Celeste-inspired Unity platformer made for a game design class at UF.
+Prototype of a Celeste-inspired 2D platformer, made in Unity.
