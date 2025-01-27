@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AllowGravAbility
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Jumpable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1295090437
+    locked: 0
+  - name: Midground
+    uniqueID: 1481557621
+    locked: 0
+  - name: Platform
+    uniqueID: 1757234475
+    locked: 0
+  - name: Tiles_Unlit
+    uniqueID: 584896461
+    locked: 0
+  - name: Gameplay
+    uniqueID: 2054604003
+    locked: 0
+  - name: Player
+    uniqueID: 1212818081
+    locked: 0
+  - name: Foreground
+    uniqueID: 2090903791
+    locked: 0
+  - name: False Wall
+    uniqueID: 1361769333
+    locked: 0
+  - name: UI
+    uniqueID: 603229543
+    locked: 0
+  - name: Camera
+    uniqueID: 3141535871
+    locked: 0

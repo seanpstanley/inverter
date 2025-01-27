@@ -1,0 +1,7 @@
+V9
+-Created LoopAudio bool for player Audio
+ (If you want to make them individual, you can open up the script and change the source.loop = to true or false)
+
+
+V8
+- Added in LockedObject_MultiKey
